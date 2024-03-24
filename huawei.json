@@ -1,0 +1,7 @@
+{
+    "power": "\u001b[31m",
+    "time": "\u001b[32m",
+    "clock": "\u001b[34m",
+    "huawei": "\u001b[37m",
+    "start": "\u001b[36m"
+}
